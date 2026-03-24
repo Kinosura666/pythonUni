@@ -1,0 +1,5 @@
+Error at 3 (Error:Id not number): invalid literal for int() with base 10: 'Error'
+Error at 4 (Error data format): Line 4: Separator not found ':'
+Line 3 (100:Duplicate_ID): Duplicate ID found: 100
+Line 4 (300:): Item name is empty
+Line 5 (Error:Id not number): invalid literal for int() with base 10: 'Error'

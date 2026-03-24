@@ -1,0 +1,6 @@
+100:Milk
+200:Bread
+100:Duplicate_ID
+300:
+Error:Id not number
+50:Cheese

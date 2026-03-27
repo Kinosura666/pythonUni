@@ -1,0 +1,13 @@
+IP '192.168.1.1' is valid. | Class C, Private
+IP '8.8.8.8' is valid. | Class A, Public
+IP '127.0.0.1' is valid. | Reserved, Public
+IP '172.16.254.1' is valid. | Class B, Private
+IP '10.0.0.255' is valid. | Class A, Private
+IP '224.0.0.1' is valid. | Class D, Public
+IP '255.255.255.255' is valid. | Class E, Public
+IP '256.0.0.1' is invalind. | Wrong format
+IP '192.168.1' is invalind. | Wrong format
+IP '172.16.254.01.1' is invalind. | Wrong format
+IP 'abc.def.ghi.jkl' is invalind. | Wrong format
+IP '192.168.1.256' is invalind. | Wrong format
+IP '1.2.3.4.5' is invalind. | Wrong format
